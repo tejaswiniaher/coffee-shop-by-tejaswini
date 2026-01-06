@@ -13,26 +13,30 @@ This project focuses on clean UI design, smooth animations, and reusable compone
 </p>
 
 
-🚀 Features
-Fully responsive design (mobile, tablet, desktop)
-Modern UI with custom color palette suitable for a coffee brand
-Smooth scroll-based animations using Framer Motion
-Reusable React components
-Interactive menu section with product cards
-Testimonial slider using React Slick
-Clean footer with personal branding
-Optimized development using Vite
+## 🚀 Features
+- Fully responsive design (mobile, tablet, desktop)
+- Modern UI with custom color palette suitable for a coffee brand
+- Smooth scroll-based animations using Framer Motion
+- Reusable React components
+- Interactive menu section with product cards
+- Testimonial slider using React Slick
+- Clean footer with personal branding
+- Optimized development using Vite
 
 
-🛠 Tech Stack
-React.js
-Tailwind CSS
-Vite
-Framer Motion
-React Slick
-Lucide React / React Icons
+## 🛠 Tech Stack
+- React.js
+- Tailwind CSS
+- Vite
+- Framer Motion
+- React Slick
+- Lucide React / React Icons
 
-📂 Project Structure
+
+
+```
+## 📂 Project Structure
+
 src/
 │── assets/
 │── components/
@@ -49,4 +53,4 @@ src/
 │── index.css
 │── main.jsx
 
-
+```
